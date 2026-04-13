@@ -67,16 +67,7 @@ RNF04 - O código deve ser versionado no GitHub
 
 ## Diagrama de Casos de Uso
 
-Exemplo de Visualização: 
-
-          [Usuário]
-              |
-    ----------------------
-    |         |          |
-Visualizar  Filtrar  Selecionar
-  Dados      Dados     Região
-              |
-      Atualizar Dados
+![alt text](image.png)
 
 ### Casos de uso:
 
