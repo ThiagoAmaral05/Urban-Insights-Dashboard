@@ -78,13 +78,18 @@ Visualizar  Filtrar  Selecionar
               |
       Atualizar Dados
 
-### Atores:
-
-- Usuário
-
 ### Casos de uso:
 
 - Visualizar dados
 - Filtrar dados
 - Selecionar região
 - Atualizar dados
+
+## Gerenciamento do Projeto
+
+O projeto será gerenciado utilizando GitHub Projects, adotando uma abordagem ágil baseada em Kanban.
+
+As dasfuncionalidades foram organiza em um backlog inicial, derivado dos requisitos funcionais. As atividades são distribuídas em sprints, sendo o TP2 correspondente à primeira sprint de desenvolvimento.
+
+O fluxo de trabalho segue as etapas:
+Backlog → TODO → In Progress → Done.
